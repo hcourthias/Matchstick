@@ -4,9 +4,10 @@ This project is based on a very famous game based on matchsticks.
 # Description
 The goal of the project is to create a program that you can play against.
 This version generate a game board with n matchstick lines (1 < n < 100) and have a simple interface so that the user could play against the computer.
-
 The AI is almost invisible !
+
 I added a human vs human mode in 5 rounds.
+
 
 # Usage
 `make`
