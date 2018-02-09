@@ -1,4 +1,8 @@
 # Matchstick
+<p align="center">
+<img width="640" alt="capture d ecran 2018-02-08 a 13 06 07" src="https://user-images.githubusercontent.com/32702872/36005460-2912924e-0d38-11e8-8d21-0f98077bb2d5.png">
+</p>
+
 This project is based on a very famous game based on matchsticks.
 
 # Description
